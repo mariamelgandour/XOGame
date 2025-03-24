@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XOGame</string>
+    <string name="player_1_n_x">Player 1 \n (X)</string>
+    <string name="player_2_n_o">Player 2 \n (O)</string>
+
+</resources>
